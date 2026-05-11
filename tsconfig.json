@@ -1,6 +1,7 @@
 {
   "compilerOptions": {
     "module": "nodenext",
+    "types": ["node"],
     "moduleResolution": "nodenext",
     "target": "es2024",
     "skipLibCheck": true,
